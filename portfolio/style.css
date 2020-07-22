@@ -84,3 +84,7 @@ li{
    font-size: 18px;
    color: black;
 }
+.skills:hover{
+   background-color: yellowgreen;
+}
+   
